@@ -10,7 +10,8 @@ This paper introduces a novel and practical geometric alternative to the traditi
 ## Publication Details
 - **Resource Type:** Publication (Paper)
 - **Publisher:** Zenodo
-- **Direct Link:** [https://zenodo.org](https://zenodo.org)
+- **Direct Link:** [https://zenodo.org/records/23496170](https://zenodo.org/records/23496170)
+
 - **DOI:** 10.5281/zenodo.23496170
 - **License:** Creative Commons Attribution 4.0 International (CC BY 4.0)
 
